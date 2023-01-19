@@ -1,0 +1,3 @@
+[submodule "src/jcBilibiliXMZSLibcommon"]
+	path = src/jcBilibiliXMZSLibcommon
+	url = https://github.com/JcOpenSource/jcBilibiliXMZSLibcommon.git
